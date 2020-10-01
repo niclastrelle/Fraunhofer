@@ -2,7 +2,7 @@
 
 Es müssen zum Ausführen des Programmes noch folgende Dateien heruntergeladen werden:
 
-I:    yolov3.cfg https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+I:    yolov3.cfg https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg  
 II:   yolov3.weights https://pjreddie.com/media/files/yolov3.weights
 III:  coco.names https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
